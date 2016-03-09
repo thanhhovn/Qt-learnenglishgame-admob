@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/media01">
+        <file>01/blocked.png</file>
+        <file>01/looking.jpg</file>
+        <file>01/looking.mp3</file>
+        <file>01/making.jpg</file>
+        <file>01/making.mp3</file>
+        <file>01/opening.jpg</file>
+        <file>01/opening.mp3</file>
+        <file>01/pulling.jpg</file>
+        <file>01/pulling.mp3</file>
+        <file>01/pushing.jpg</file>
+        <file>01/pushing.mp3</file>
+        <file>01/putting.jpg</file>
+        <file>01/putting.mp3</file>
+        <file>01/reading.jpg</file>
+        <file>01/reading.mp3</file>
+        <file>01/running.jpg</file>
+        <file>01/running.mp3</file>
+        <file>01/seeing.jpg</file>
+        <file>01/seeing.mp3</file>
+        <file>01/singing.jpg</file>
+        <file>01/singing.mp3</file>
+        <file>01/sitting.jpg</file>
+        <file>01/sitting.mp3</file>
+        <file>01/sleeping.jpg</file>
+        <file>01/sleeping.mp3</file>
+        <file>01/smelling.jpg</file>
+        <file>01/smelling.mp3</file>
+        <file>01/smiling.jpg</file>
+        <file>01/smiling.mp3</file>
+        <file>01/smoking.jpg</file>
+        <file>01/smoking.mp3</file>
+        <file>01/speaking.jpg</file>
+        <file>01/speaking.mp3</file>
+        <file>01/standing.jpg</file>
+        <file>01/standing.mp3</file>
+        <file>01/stopping.jpg</file>
+        <file>01/stopping.mp3</file>
+        <file>01/swimming.jpg</file>
+        <file>01/swimming.mp3</file>
+        <file>01/tasting.jpg</file>
+        <file>01/tasting.mp3</file>
+    </qresource>
+</RCC>
